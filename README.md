@@ -1,2 +1,0 @@
-# ReactPlaytime
-Created with CodeSandbox
